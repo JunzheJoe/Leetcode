@@ -124,3 +124,7 @@ Assume `N` is the length of the input string:
 ## 📝 Related Problems
 - [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 - [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+
+## Appendix: Dry Run Examples
+![alt text](Example1.png)
+![alt text](Example2.png)
