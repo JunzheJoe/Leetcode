@@ -98,3 +98,6 @@ Assume `N` is the number of days (length of `prices`).
 ## 📝 Related Problems
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
+## Appendix: Visualization
+![alt text](Neetcode.png)
