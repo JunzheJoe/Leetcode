@@ -11,5 +11,6 @@ class Solution:
         if p is None or q is None:
             return p is q
 
+        # If val are the same, and the left and right subtrees are both the same, then they are the same tree.
         return p.val == q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
         
