@@ -116,3 +116,7 @@ Assume `N` is the number of nodes.
 ## 📝 Related Problems
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+
+## Appendix: Dry Run:
+![alt text](DryRun.jpg)
