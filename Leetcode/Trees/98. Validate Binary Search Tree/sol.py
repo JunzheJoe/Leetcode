@@ -11,4 +11,4 @@ class Solution:
                 return []
             return inOrder(root.left) + [root.val] + inOrder(root.right)
 
-        return min(inOrder(root), key = lambda x: abs(target - x))
+        return min(inOrder(root), key = lambda x: abs(target - x)) # Call lambda function and sort based on absolute value
