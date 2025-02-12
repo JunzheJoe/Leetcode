@@ -2,7 +2,7 @@
 
 🔗 **[Same Tree](https://leetcode.com/problems/same-tree/)**  
 💡 **Difficulty:** Easy  
-🛠 **Topics:** Tree, Depth-First Search (DFS), Breadth-First Search (BFS), Recursion  
+🛠 **Topics:** Tree, DFS, BFS, Recursion  
 
 ---
 
