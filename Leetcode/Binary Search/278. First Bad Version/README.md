@@ -92,21 +92,7 @@ n = 1, bad = 1
 ---
 
 ### 4️⃣ Implement
-```python
-# The isBadVersion API is already defined for you.
-# def isBadVersion(version: int) -> bool:
-
-class Solution:
-    def firstBadVersion(self, n: int) -> int:
-        l, r = 1, n
-        while l < r:
-            m = (l + r) // 2
-            if isBadVersion(m):
-                r = m    # Include current version if it's bad
-            else:
-                l = m + 1
-        return r
-```
+see sol.py
 
 ---
 
