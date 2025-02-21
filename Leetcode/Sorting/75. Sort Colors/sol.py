@@ -19,7 +19,7 @@ class Solution:
                 swap(i, r)
                 r -= 1
                 i -= 1 # i should not be incremented if encountering 2 (cuz might introduce 0 in the middle)
-                # Thus use -= 1 to offset the i += 1 outside the conditional
+                        # Thus use -= 1 to offset the i += 1 outside the conditional
             i += 1
                 
             
