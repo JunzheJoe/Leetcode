@@ -3,7 +3,7 @@ class Solution:
         res = []
         
         def dfs(i, cur, total):
-            # 两个Base Cases
+            # 两个Base cases
             if total == target:
                 res.append(cur.copy())
                 return
