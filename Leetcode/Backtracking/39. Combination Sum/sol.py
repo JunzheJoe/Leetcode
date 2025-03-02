@@ -1,3 +1,5 @@
+# Special Note: want combination not permutation, thus order does not matter
+# [2 ,2, 3] is the same as [2, 3, 2]
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
